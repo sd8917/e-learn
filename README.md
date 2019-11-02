@@ -1,4 +1,4 @@
-# e-learn
+# E-learn
 * A learning platform to all beginner.
 
 # Work Flow
@@ -16,7 +16,7 @@
 # creation of templates folder:-
 * app_name/templates/app_name/html_file.html
 
-# URL PATTERN SAMPLE:-
+# Url pattern simple :-
 * path('admin/', admin.site.urls),
 * path('',include('homeapp.urls')),
 * path('blog/',include('blog.urls')),
